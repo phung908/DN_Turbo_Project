@@ -1,9 +1,13 @@
 [
-
 {
-"Name":"Map 1.44.1",
+"Name":"Map 1.44",
 "Preview":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/Preview/Map1.44.png",
-"Link":"https://github.com/JaneAoV/DN_Turbo_Project/releases/download/Map/Map1.44.zip"
+"Link":"https://github.com/JaneAoV/DN_Turbo_Project/releases/download/Map/Map1.44.x.zip"
+},
+{
+"Name":"Map 1.44 HD Cỏ Động",
+"Preview":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/Preview/Map1.44.png",
+"Link":"https://github.com/JaneAoV/DN_Turbo_Project/releases/download/Map/Map1.44.xHD.zip"
 },
 {
 "Name":"Map 4.0",

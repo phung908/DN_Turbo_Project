@@ -1,7 +1,9 @@
 [
 {
-"PhienBan":"4.9",
-"Log":"- Bug Fixed",
-"LinkDownload":"https://github.com/JaneAoV/DN_Manager/releases/download/File/DN_Turbo_4.9.apk"
+"PhienBan":"5.2",
+"Log":"- Bug Fixed
+- Fix crash cam xa trên một số máy
+- Support Android 11, Android 12, Android 13 ( Not all )",
+"LinkDownload":"https://github.com/JaneAoV/DN_Manager/releases/download/File/DN_Turbo_5.2.apk"
 }
 ]

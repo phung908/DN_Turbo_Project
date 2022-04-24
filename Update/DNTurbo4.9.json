@@ -1,8 +1,9 @@
 [
 {
-"PhienBan":"5.1",
+"PhienBan":"5.2",
 "Log":"- Bug Fixed
-- Fix loading 27% AoV, RoV,...",
-"LinkDownload":"https://github.com/JaneAoV/DN_Manager/releases/download/File/DN_Turbo_5.1.apk"
+- Fix crash cam xa trên một số máy
+- Support Android 11, Android 12, Android 13 ( Not all )",
+"LinkDownload":"https://github.com/JaneAoV/DN_Manager/releases/download/File/DN_Turbo_5.2.apk"
 }
 ]

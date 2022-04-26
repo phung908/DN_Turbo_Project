@@ -10,6 +10,21 @@
 "Link":"https://github.com/JaneAoV/DN_Turbo_Project/releases/download/Map/MapHDFullSettings.zip"
 },
 {
+"Name":"Map 2D",
+"Preview":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/Preview/Map2D.png",
+"Link":"https://github.com/JaneAoV/DN_Turbo_Project/releases/download/Map/Map2D.zip"
+},
+{
+"Name":"Map Đen Tường Gốc",
+"Preview":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/Preview/MapDenTuongGoc.png",
+"Link":"https://github.com/JaneAoV/DN_Turbo_Project/releases/download/Map/MapDenTuongGoc.zip"
+},
+{
+"Name":"Map Đen Tường Đen",
+"Preview":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/Preview/MapDenTuongDen.png",
+"Link":"https://github.com/JaneAoV/DN_Turbo_Project/releases/download/Map/MapDenTuongDen.zip"
+},
+{
 "Name":"Map 1.44 HD Cỏ Động",
 "Preview":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/Preview/Map1.44.png",
 "Link":"https://github.com/JaneAoV/DN_Turbo_Project/releases/download/Map/Map1.44.xHD.zip"
@@ -35,11 +50,6 @@
 "Link":"https://github.com/JaneAoV/DN_Turbo_Project/releases/download/Map/MapGSHD.zip"
 },
 {
-"Name":"Map 2D",
-"Preview":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/Preview/Map2D.png",
-"Link":"https://github.com/JaneAoV/DN_Turbo_Project/releases/download/Map/Map2D.zip"
-},
-{
 "Name":"Map Tuyết",
 "Preview":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/Preview/MapTuyet.png",
 "Link":"https://github.com/JaneAoV/DN_Turbo_Project/releases/download/Map/MapTuyet.zip"
@@ -48,15 +58,5 @@
 "Name":"Map Tuyết HD Cỏ động",
 "Preview":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/Preview/MapTuyetHD.png",
 "Link":"https://github.com/JaneAoV/DN_Turbo_Project/releases/download/Map/MapTuyetHD.zip"
-},
-{
-"Name":"Map Đen Tường Gốc",
-"Preview":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/Preview/MapDenTuongGoc.png",
-"Link":"https://github.com/JaneAoV/DN_Turbo_Project/releases/download/Map/MapDenTuongGoc.zip"
-},
-{
-"Name":"Map Đen Tường Đen",
-"Preview":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/Preview/MapDenTuongDen.png",
-"Link":"https://github.com/JaneAoV/DN_Turbo_Project/releases/download/Map/MapDenTuongDen.zip"
 }
 ]

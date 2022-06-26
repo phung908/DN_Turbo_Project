@@ -41,7 +41,13 @@
 "Icon":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/HeroIcon/Raz.jpg",
 "Link":"https://raw.githubusercontent.com/JaneAoV/DN_Turbo_Project/main/MODSKINNEW/ListSkin/Raz.json"
 },
-  {
+{
+"Loai":"PhapSu",
+"Name":"Veera",
+"Icon":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/HeroIcon/Veera.jpg",
+"Link":"https://raw.githubusercontent.com/JaneAoV/DN_Turbo_Project/main/MODSKINNEW/ListSkin/Veera.json"
+},
+{
 "Loai":"XaThu",
 "Name":"Yorn",
 "Icon":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/HeroIcon/Yorn.jpg",

@@ -1,5 +1,11 @@
 [
 {
+"Loai":"TroThu",
+"Name":"Badum",
+"Icon":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/HeroIcon/Badum.jpg",
+"Link":"https://raw.githubusercontent.com/JaneAoV/DN_Turbo_Project/main/MODSKINNEW/ListSkin/Badum.json"
+},
+{
 "Loai":"XaThu",
 "Name":"Capheny",
 "Icon":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/HeroIcon/Capheny.jpg",

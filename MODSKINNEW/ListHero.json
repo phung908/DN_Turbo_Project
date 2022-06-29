@@ -41,7 +41,13 @@
 "Icon":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/HeroIcon/Florentino.jpg",
 "Link":"https://raw.githubusercontent.com/JaneAoV/DN_Turbo_Project/main/MODSKINNEW/ListSkin/Flo.json"
 },
-  {
+{
+"Loai":"PhapSu",
+"Name":"Lauriel",
+"Icon":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/HeroIcon/Lauriel",
+"Link":"https://raw.githubusercontent.com/JaneAoV/DN_Turbo_Project/main/MODSKINNEW/ListSkin/Lauriel.json"
+},
+{
 "Loai":"XaThu",
 "Name":"Hayate",
 "Icon":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/HeroIcon/Hayate.jpg",

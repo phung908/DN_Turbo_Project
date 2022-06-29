@@ -1,47 +1,17 @@
 [
-{
-"SkinName":"Chiến Binh Hoả Ngục",
-"Preview":"https://lienquan.garena.vn/files/skin/4979a701cac42039c9ceaaf3a2c3e6765ec6507a8be87.jpg",
-"Link":""
-},
-{
-    "SkinName":"Quân Đoàn Địa Ngục",
-    "Preview":"https://lienquan.garena.vn/files/skin/995f2c0aed2b757d6f45dd32510ce1075c49395e2ce76.jpg",
-    "Link":"https://github.com/JaneAoV/DN-Turbo-File-Skin/raw/main/Nakroth/DiaNguc.zip"
-    },
+ {
+                        "SkinName":"Lôi Quang Sứ",
+                        "Preview":"https://github.com/JaneAoV/Skin_Preview/raw/main/Nakroth/nakloiquang.jpg",
+                        "Link":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/FileSkin/Nak/LoiQuangSu.zip"
+                        },
     {
         "SkinName":"BBoy Công Nghệ",
         "Preview":"https://lienquan.garena.vn/files/skin/9ca27ec280c4befd2e299ff144b0058459b29278ce71f.jpg",
-        "Link":"https://github.com/JaneAoV/DN-Turbo-File-Skin/raw/main/Nakroth/BBoy.zip"
+        "Link":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/FileSkin/Nak/NakBBoy.zip"
         },
-        {
+    {
             "SkinName":"Siêu Việt",
             "Preview":"https://lienquan.garena.vn/files/skin/fa5833ffec89683fe89029070d78806f5a815a0349020.jpg",
-            "Link":"https://github.com/JaneAoV/DN-Turbo-File-Skin/raw/main/Nakroth/SieuViet.zip"
+            "Link":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/FileSkin/Nak/SieuViet.zip"
             },
-            {
-                "SkinName":"Khiêu Chiến",
-                "Preview":"https://lienquan.garena.vn/files/skin/c2f3364ac1c81a67cc39e031b05d21ef5c41d1a401795.jpg",
-                "Link":"https://github.com/JaneAoV/DN-Turbo-File-Skin/raw/main/Nakroth/AIC.zip"
-                },
-                {
-                    "SkinName":"Quán Quân",
-                    "Preview":"https://lienquan.garena.vn/files/skin/b2dbfc69db9688c3295ec4f9880187125f0d1e4e449a7.jpg",
-                    "Link":"https://github.com/JaneAoV/DN-Turbo-File-Skin/raw/main/Nakroth/QuanQuan.zip"
-                    },
-                    {
-                        "SkinName":"Lôi Quang Sứ",
-                        "Preview":"https://github.com/JaneAoV/Skin_Preview/raw/main/Nakroth/nakloiquang.jpg",
-                        "Link":"https://github.com/JaneAoV/DN-Turbo-File-Skin/raw/main/Nakroth/LoiQuang.zip"
-                        },
-                        {
-                            "SkinName":"Tiệc Bãi Biển",
-                            "Preview":"https://lienquan.garena.vn/files/skin/4eefc190795ff89d196522b182e776746116ce3ccadec.png",
-                            "Link":"https://github.com/JaneAoV/DN-Turbo-File-Skin/raw/main/Nakroth/TiecBaiBien.zip"
-                            },
-                            {
-                                "SkinName":"Thứ nguyên vệ thần",
-                                "Preview":"https://github.com/JaneAoV/Skin_Preview/raw/main/Nakroth/naktnvt.jpg",
-                                "Link":"https://github.com/JaneAoV/DN-Turbo-File-Skin/raw/main/Nakroth/ThuNguyenVeThan.zip"
-                                }
 ]

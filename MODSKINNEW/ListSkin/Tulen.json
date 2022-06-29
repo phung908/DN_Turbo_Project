@@ -1,47 +1,22 @@
 [
 {
-"SkinName":"Nhà Thám Hiểm",
-"Preview":"https://lienquan.garena.vn/files/skin/d4aed79281e74897fe3bb6b12dfcec3a5ef5f2300f713.jpg",
-"Link":"https://github.com/JaneAoV/DN-Turbo-File-Skin/raw/main/Tulen/NhaThamHiem.zip"
-},
-{
     "SkinName":"Tân Thần Thiên Hà",
     "Preview":"https://lienquan.garena.vn/files/skin/5159a548e4a7ef3a7b082059fd3a2a2a5ac73e186c7d5.jpg",
-    "Link":"https://github.com/JaneAoV/DN-Turbo-File-Skin/raw/main/Tulen/TanThanThienHa.zip"
+    "Link":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/FileSkin/Tulen/ThienHa.zip"
     },
-    {
-        "SkinName":"Phù Thuỷ Kiến Tạo",
-        "Preview":"https://lienquan.garena.vn/files/skin/bbf09fa6b6410edcfbda226afe9d0fff5b1fa00190369.jpg",
-        "Link":"https://github.com/JaneAoV/DN-Turbo-File-Skin/raw/main/Tulen/PhuThuyKienTao.zip"
-        },
-        {
-            "SkinName":"Đông Êm Đềm",
-            "Preview":"https://lienquan.garena.vn/files/skin/5c989fdd8bcb08252b231d57b8290d5a5c1c7f20dbc07.jpg",
-            "Link":"https://github.com/JaneAoV/DN-Turbo-File-Skin/raw/main/Tulen/DongEmDem.zip"
-            },
-            {
-                "SkinName":"Tân Thần Hoàng Kim",
-                "Preview":"https://lienquan.garena.vn/files/skin/b6d45bb65431e6523232fde986e0e4225cc133a89a691.jpg",
-                "Link":"https://github.com/JaneAoV/DN-Turbo-File-Skin/raw/main/Tulen/TanThanHoangKim.zip"
-                },
                 {
                     "SkinName":"Chí Tôn Kiếm Tiên",
                     "Preview":"https://lienquan.garena.vn/files/skin/8e4fc278afc09a6304145b7a3f3cf33c5d8c8a82cec6b.jpg",
-                    "Link":"https://github.com/JaneAoV/DN-Turbo-File-Skin/raw/main/Tulen/ChiTonKiemTien.zip"
+                    "Link":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/FileSkin/Tulen/ChiTon.zip"
                     },
-                    {
-                        "SkinName":"Dạ Hội",
-                        "Preview":"https://lienquan.garena.vn/files/skin/49ae6dc09fc862a612d9a0afce79a0d15ec8fd2287981.jpg",
-                        "Link":"https://github.com/JaneAoV/DN-Turbo-File-Skin/raw/main/Tulen/DaHoi.zip"
-                        },
                         {
                             "SkinName":"Thần Sứ STL-79",
                             "Preview":"https://lienquan.garena.vn/files/skin/c03782ae462d08357340d3886cb701e15fc5253293e3d.jpg",
-                            "Link":""
+                            "Link":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/FileSkin/Tulen/ThanSu.zip"
                             },
                             {
-                                "SkinName":"Hoả Thần Long Tộc",
-                                "Preview":"https://lienquan.garena.vn/files/skin/c13f8083281430e061d85d602e3e69b96117693fcbe0f.png",
-                                "Link":""
+                                "SkinName":"Tân Niên",
+                                "Preview":"",
+                                "Link":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/FileSkin/Tulen/TanNien.zip"
                                 }
 ]

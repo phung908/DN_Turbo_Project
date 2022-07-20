@@ -1,7 +1,37 @@
 [
 {
-"SkinName":"Kimono",
-"Preview":"https://lienquan.garena.vn/files/skin/47884f2fd34e454ad1ea0fdf0f9581955ed0939e0fd09.jpg",
-"Link":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/FileSkin/Capheny/CaphenyKimono.zip"
-}
+"SkinName":"Hầu gái",
+"Preview":"https://lienquan.garena.vn/files/skin/9b4c86ba8f3227429dbd5d3a183afbe85ca5c248ba416.jpg",
+"Link":"https://github.com/JaneAoV/DN-Turbo-File-Skin/raw/main/Capheny/HauGai.zip"
+},
+{
+    "SkinName":"Thần tượng âm nhạc",
+    "Preview":"https://lienquan.garena.vn/files/skin/8b008d50dc05d0a17a9f7e840189f8625d3829f215ab7.jpg",
+    "Link":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/FileSkin/Capheny/ThanTuongAmNhac.zip"
+    },
+    {
+        "SkinName":"Toán hoá sinh",
+        "Preview":"https://lienquan.garena.vn/files/skin/09c6cee937fac5c09c27de1c342982225fbcb8ac95908.jpg",
+        "Link":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/FileSkin/Capheny/ToanHoaSinh.zip"
+        },
+        {
+            "SkinName":"Kimono",
+            "Preview":"https://lienquan.garena.vn/files/skin/47884f2fd34e454ad1ea0fdf0f9581955ed0939e0fd09.jpg",
+            "Link":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/FileSkin/Capheny/CaphenyKimono.zip"
+            },
+            {
+                "SkinName":"Siêu cấp tin tặc",
+                "Preview":"https://github.com/JaneAoV/Skin_Preview/raw/main/Capheny/caphenyTintac.jpg",
+                "Link":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/FileSkin/Capheny/SieuCapTinTac.zip"
+                },
+            {
+                "SkinName":"Harley Quinn",
+                "Preview":"https://github.com/JaneAoV/Skin_Preview/raw/main/Capheny/HarleyQuinn.jpg",
+                "Link":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/FileSkin/Capheny/HaleyrQueen.zip"
+                },
+            {
+                "SkinName":"Phi Hành Gia",
+                "Preview":"",
+                "Link":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/FileSkin/Capheny/PhiHanhGia.zip"
+                }
 ]

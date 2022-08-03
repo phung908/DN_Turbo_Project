@@ -64,5 +64,17 @@
 "Name":"Chaugnar",
 "Icon":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/HeroIcon/Chaugnar.jpg",
 "Link":"https://raw.githubusercontent.com/JaneAoV/DN_Turbo_Project/main/MODSKINNEW/ListSkin/Chaugnar.json"
+},
+{
+"Loai":"PhapSu",
+"Name":"Iggy",
+"Icon":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/HeroIcon/Iggy.jpg",
+"Link":"https://raw.githubusercontent.com/JaneAoV/DN_Turbo_Project/main/MODSKINNEW/ListSkin/Iggy.json"
+},
+{
+"Loai":"TroThu",
+"Name":"Zip",
+"Icon":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/HeroIcon/Zip.jpg",
+"Link":"https://raw.githubusercontent.com/JaneAoV/DN_Turbo_Project/main/MODSKINNEW/ListSkin/Zip.json"
 }
 ]

@@ -1,13 +1,32 @@
 [
+{
+"SkinName":"Cô Giáo Hắc Ám",
+"Preview":"https://lienquan.garena.vn/files/skin/48bb9018cdff566de4bf2509526fea9c5ef5998831eba.jpg",
+"Link":"https://github.com/JaneAoV/DN-Turbo-File-Skin/raw/main/Veera/CoGiaoHacAm.zip"
+},
+{
+    "SkinName":"Goá Phụ Giả Kim",
+    "Preview":"https://lienquan.garena.vn/files/skin/d2a395d6904e701a5c31a446aa81052f5ef5997a8d8cb.jpg",
+    "Link":"https://github.com/JaneAoV/DN-Turbo-File-Skin/raw/main/Veera/GoaPhuGiaKim.zip"
+    },
     {
         "SkinName":"Nàng Dơi Tuyết",
         "Preview":"https://lienquan.garena.vn/files/skin/3aafdb1e5fd9d829244664f52a16d1b1589a8ee4407b7.jpg",
-        "Link":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/FileSkin/Veera/DoiTuyet.zip"
+        "Link":"https://github.com/JaneAoV/DN-Turbo-File-Skin/raw/main/Veera/NangDoiTuyet.zip"
         },
+        {
+            "SkinName":"Y Tá Bạo Loạn",
+            "Preview":"https://lienquan.garena.vn/files/skin/7c13a1c0b946ce53c46d47a8010c1320599fa67cd6419.jpg",
+            "Link":"https://github.com/JaneAoV/DN-Turbo-File-Skin/raw/main/Veera/YTaBaoLoan.zip"
+            },
+            {
+                "SkinName":"Thiên Nga Đen",
+                "Preview":"https://github.com/JaneAoV/Skin_Preview/raw/main/Veera/veerathienngaden.jpg",
+                "Link":"https://github.com/JaneAoV/DN-Turbo-File-Skin/raw/main/Veera/ThienNgaDen.zip"
+                },
                 {
-                    "SkinName":"Kimono",
-                    "Preview":"",
-                    "Link":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/FileSkin/Veera/Kimono.zip"
+                    "SkinName":"Vũ Hội Bóng Đêm",
+                    "Preview":"https://github.com/JaneAoV/Skin_Preview/raw/main/Veera/veerabongdem.jpg",
+                    "Link":"https://github.com/JaneAoV/DN-Turbo-File-Skin/raw/main/Veera/VuHoiBongDem.zip"
                     }
 ]
-

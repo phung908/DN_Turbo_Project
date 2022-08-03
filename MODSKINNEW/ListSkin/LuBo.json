@@ -1,12 +1,42 @@
 [
 {
-"SkinName":"Ichigo Kurosakit",
-"Preview":"https://github.com/JaneAoV/Skin_Preview/raw/main/LuBo/luboichigo.jpg",
-"Link":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/FileSkin/LuBo/LuBoIchigo.zip"
+"SkinName":"Tiệc Bãi Biển",
+"Preview":"https://lienquan.garena.vn/files/skin/89edf66b7c36aa5659dd54f19c273c595a15037dd187a.jpg",
+"Link":"https://github.com/JaneAoV/DN-Turbo-File-Skin/raw/main/LuBo/TiecBaiBien.zip"
 },
 {
-"SkinName":"Tư Lệnh Robot",
-"Preview":"https://lienquan.garena.vn/files/skin/4eea1a345413977a5acc09a8e80105f75dce9460f04f4.jpg",
-"Link":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/FileSkin/LuBo/LuBoRobot.zip"
-}
+    "SkinName":"Nam Vương",
+    "Preview":"https://lienquan.garena.vn/files/skin/0e3fa00396a90ee03c16db04bf3b80c85a4da7e204926.jpg",
+    "Link":"https://github.com/JaneAoV/DN-Turbo-File-Skin/raw/main/LuBo/NamVuong.zip"
+    },
+    {
+        "SkinName":"Long Kỵ Sĩ",
+        "Preview":"https://lienquan.garena.vn/files/skin/8ef78c91f1c102bb689f3ecd9f3b9d2d58f47834ea6e2.jpg",
+        "Link":"https://github.com/JaneAoV/DN-Turbo-File-Skin/raw/main/LuBo/LongKiSi.zip"
+        },
+        {
+            "SkinName":"Kỵ Sĩ Âm Phủ",
+            "Preview":"https://lienquan.garena.vn/files/skin/9bcf4ea793622a27451a371bbc8de6125949ec3b8677c.jpg",
+            "Link":"https://github.com/JaneAoV/DN-Turbo-File-Skin/raw/main/LuBo/KySiAmPhu.zip"
+            },
+            {
+                "SkinName":"Đặc Nhiệm SWAT",
+                "Preview":"https://lienquan.garena.vn/files/skin/ec8a790aabb7620e51f852115199bfc559d1ad757b329.jpg",
+                "Link":"https://github.com/JaneAoV/DN-Turbo-File-Skin/raw/main/LuBo/DacNhiemSwat.zip"
+                },
+                {
+                    "SkinName":"Tư Lệnh Robot",
+                    "Preview":"https://lienquan.garena.vn/files/skin/4eea1a345413977a5acc09a8e80105f75dce9460f04f4.jpg",
+                    "Link":"https://github.com/JaneAoV/DN-Turbo-File-Skin/raw/main/LuBo/TuLenhRobot.zip"
+                    },
+                    {
+                        "SkinName":"Hoả Long Chiến Thần",
+                        "Preview":"https://lienquan.garena.vn/files/skin/b87569ff1b8aac2ecf207b438f7a17335d2562f6de441.jpg",
+                        "Link":"https://github.com/JaneAoV/DN-Turbo-File-Skin/raw/main/LuBo/HoaLong.zip"
+                        },
+                        {
+                            "SkinName":"Ichigo Kurosaki",
+                            "Preview":"https://github.com/JaneAoV/Skin_Preview/raw/main/LuBo/luboichigo.jpg",
+                            "Link":"https://github.com/JaneAoV/DN-Turbo-File-Skin/raw/main/LuBo/Ichigo.zip"
+                            }
 ]

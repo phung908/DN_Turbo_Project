@@ -1,7 +1,17 @@
 [
 {
-"SkinName":"Dung Nham",
-"Preview":"https://lienquan.garena.vn/files/skin/c49c103589b3d65d678360d02e9082c45ed4c4fa6dd5b.jpg",
-"Link":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/FileSkin/Badum/BadumDungNham.zip"
-}
+"SkinName":"Chú Thợ Ống Nước",
+"Preview":"https://lienquan.garena.vn/files/skin/496ccdce3726050c01c8122dea65ddd15b6bba1b3a541.jpg",
+"Link":"https://github.com/JaneAoV/DN-Turbo-File-Skin/raw/main/Baldum/ThoSuaOngNuoc.zip"
+},
+{
+    "SkinName":"Liệt Hoả Dung Nham",
+    "Preview":"https://lienquan.garena.vn/files/skin/c49c103589b3d65d678360d02e9082c45ed4c4fa6dd5b.jpg",
+    "Link":"https://github.com/JaneAoV/DN-Turbo-File-Skin/raw/main/Baldum/LietHoaDungNham.zip"
+    },
+    {
+        "SkinName":"Thần Thoại Hi Lạp",
+        "Preview":"https://lienquan.garena.vn/files/skin/41b5c3fd20b42d63acab239f94d7411a61178363e77e3.png",
+        "Link":"https://github.com/JaneAoV/DN-Turbo-File-Skin/raw/main/Baldum/ThanThoaiHyLap.zip"
+        }
 ]

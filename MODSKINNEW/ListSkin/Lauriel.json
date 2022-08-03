@@ -1,13 +1,47 @@
 [
-
+{
+"SkinName":"Đoạ Lạc Thiên Sứ",
+"Preview":"https://lienquan.garena.vn/files/skin/8d2b6505072285646fc4fc2eea4ce6805ecdfb07925c8.jpg",
+"Link":""
+},
+{
+    "SkinName":"Hoả Phượng Hoàng",
+    "Preview":"https://lienquan.garena.vn/files/skin/8ba2de85e1704808e11ae0fec1b80ac75a531d236eabc.jpg",
+    "Link":"https://github.com/JaneAoV/DN-Turbo-File-Skin/raw/main/Lauriel/HoaPhuongHoang.zip"
+    },
+    {
+        "SkinName":"Phù Thuỷ Bí Ngô",
+        "Preview":"https://lienquan.garena.vn/files/skin/4ce799b7f6cefbc36e1fd54741a9778a59f83073117e9.jpg",
+        "Link":"https://github.com/JaneAoV/DN-Turbo-File-Skin/raw/main/Lauriel/PhuThuyBiNgo.zip"
+        },
+        {
+            "SkinName":"Thánh Quang Sứ",
+            "Preview":"https://lienquan.garena.vn/files/skin/e493ba98e76e4013073a41c0bea848ce5bed3f1ecc9e9.jpg",
+            "Link":"https://github.com/JaneAoV/DN-Turbo-File-Skin/raw/main/Lauriel/ThanhQuangSu.zip"
+            },
+            {
+                "SkinName":"Hoa Khôi Giáng Sinh",
+                "Preview":"https://lienquan.garena.vn/files/skin/edcecd8cb604da9296e40e691e2c93e25e413d878fa83.jpg",
+                "Link":"https://github.com/JaneAoV/DN-Turbo-File-Skin/raw/main/Lauriel/HoaKhoiGiangSinh.zip"
+                },
                 {
                     "SkinName":"Lạc Thần",
                     "Preview":"https://lienquan.garena.vn/files/skin/a3b6158edaf27be76765bca87442c09a5d6f996d4de13.jpg",
-                    "Link":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/FileSkin/Lauriel/LacThan.zip"
+                    "Link":"https://github.com/JaneAoV/DN-Turbo-File-Skin/raw/main/Lauriel/LacThan.zip"
                     },
                     {
-                        "SkinName":"Phi Thiên",
-                        "Preview":"",
-                        "Link":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/FileSkin/Lauriel/PhiThien.zip"
-                        }
+                        "SkinName":"Tinh Vân Sứ",
+                        "Preview":"https://lienquan.garena.vn/files/skin/34fbd8bbc6ae7e320ca09988bccbfe1b5e607c82053a1.jpg",
+                        "Link":"https://github.com/JaneAoV/DN-Turbo-File-Skin/raw/main/Lauriel/TinhVanSu.zip"
+                        },
+                        {
+                            "SkinName":"Tiệc Bãi Biển",
+                            "Preview":"https://lienquan.garena.vn/files/skin/e4908bcb08198e614d44b338edc8b3b55fbb6ca571252.jpg",
+                            "Link":"https://github.com/JaneAoV/DN-Turbo-File-Skin/raw/main/Lauriel/TiecBaiBien.zip"
+                            },
+                            {
+                                "SkinName":"Thiên Sứ Công Nghệ",
+                                "Preview":"https://lienquan.garena.vn/files/skin/28e51763a69a615ef2937587787c4e6061175ed9bb920.png",
+                                "Link":"https://github.com/JaneAoV/DN-Turbo-File-Skin/raw/main/Lauriel/ThienSuCongNghe.zip"
+                                }
 ]

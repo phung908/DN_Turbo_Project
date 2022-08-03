@@ -7,17 +7,17 @@
 {
     "SkinName":"Tiệc Bãi Biển",
     "Preview":"https://lienquan.garena.vn/files/skin/08aa6db0addad6487aba42a9aefa662e5b3d8aa61f00b.png",
-    "Link":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/FileSkin/DieuThuyen/TiecBaiBien.zip"
+    "Link":"https://github.com/JaneAoV/DN-Turbo-File-Skin/raw/main/DieuThuyen/TiecBaiBien.zip"
     },
     {
         "SkinName":"Hoa Hậu",
         "Preview":"https://lienquan.garena.vn/files/skin/4f04f5bbb9ecdb667d0736f2d0730f195ef5c0bd31677.jpg",
-        "Link":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/FileSkin/DieuThuyen/HoaHau.zip"
+        "Link":"https://github.com/JaneAoV/DN-Turbo-File-Skin/raw/main/DieuThuyen/HoaHau.zip"
         },
         {
             "SkinName":"Phù Thuỷ Bí Ngô",
             "Preview":"https://lienquan.garena.vn/files/skin/1d6702c9581841e2135d6c2750ce61545db5890eb125c.jpg",
-            "Link":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/FileSkin/DieuThuyen/PhuThuyBiNgo.zip"
+            "Link":"https://github.com/JaneAoV/DN-Turbo-File-Skin/raw/main/DieuThuyen/PhuThuyBiNgo.zip"
             },
             {
                 "SkinName":"Vũ Điệu Nghê Thường",
@@ -32,16 +32,11 @@
                     {
                         "SkinName":"Mèo Công Nghệ",
                         "Preview":"https://lienquan.garena.vn/files/skin/916dad7d13851c83f7bb7b0d95b594596116c67134347.png",
-                        "Link":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/FileSkin/DieuThuyen/MeoCongNghe.zip"
+                        "Link":"https://github.com/JaneAoV/DN-Turbo-File-Skin/raw/main/DieuThuyen/MeoCongNghe.zip"
                         },
                     {
                         "SkinName":"WaVe",
                         "Preview":"https://github.com/JaneAoV/Skin_Preview/raw/main/DieuThuyen/DieuThuyenWave.jpg",
-                        "Link":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/FileSkin/DieuThuyen/WAVE.zip"
-                        },
-                    {
-                        "SkinName":"Thất Tịch",
-                        "Preview":"",
-                        "Link":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/FileSkin/DieuThuyen/ThatTich.zip"
+                        "Link":"https://github.com/JaneAoV/DN-Turbo-File-Skin/raw/main/DieuThuyen/WaVe.zip"
                         }
 ]

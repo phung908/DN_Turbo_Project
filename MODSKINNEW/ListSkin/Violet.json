@@ -2,58 +2,76 @@
 {
 "SkinName":"Nữ Hoàng Pháo Hoa",
 "Preview":"https://lienquan.garena.vn/files/skin/d8b09710ebceb2d01dd1f79a79ae0a92590c02a01a161.jpg",
-"Link":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/FileSkin/Violet/PhaoHoaNeon.zip"
+"Link":"https://github.com/JaneAoV/DN-Turbo-File-Skin/raw/main/Violet/PhaoHoa.zip"
 },
+{
+    "SkinName":"Nữ Đặc Cảnh",
+    "Preview":"https://lienquan.garena.vn/files/skin/ea8e80b2aceeb0045f6ba21c7f139fc858462ef33b4b6.jpg",
+    "Link":"https://github.com/JaneAoV/DN-Turbo-File-Skin/raw/main/Violet/DacCanh.zip"
+    },
     {
         "SkinName":"Phi Công Trẻ",
         "Preview":"https://lienquan.garena.vn/files/skin/c4f043968a2d8ca50c6815e75d172c715a66f08a2e5e7.jpg",
-        "Link":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/FileSkin/Violet/PhiCongTre.zip"
+        "Link":"https://github.com/JaneAoV/DN-Turbo-File-Skin/raw/main/Violet/PhiCongTre.zip"
         },
         {
             "SkinName":"Mèo Siêu Quậy",
             "Preview":"https://lienquan.garena.vn/files/skin/1e1035bc47f3d80054dd554d5dc9b2735a1be3e1b8c5b.jpg",
-            "Link":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/FileSkin/Violet/MeoSieuQuay.zip"
+            "Link":"https://github.com/JaneAoV/DN-Turbo-File-Skin/raw/main/Violet/MeoSieuQuay.zip"
             },
             {
                 "SkinName":"Tiệc Bãi Biển",
                 "Preview":"https://lienquan.garena.vn/files/skin/25c05f91f9d63ab927938064af43ad8c5b3d8a39bdeaf.png",
-                "Link":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/FileSkin/Violet/TiecBaiBien.zip"
+                "Link":"https://github.com/JaneAoV/DN-Turbo-File-Skin/raw/main/Violet/TiecBaiBien.zip"
                 },
-              
+                {
+                    "SkinName":"Phó Học Tập",
+                    "Preview":"https://lienquan.garena.vn/files/skin/63ea421032602e81b207aa7a3822c60c5c0def7ea82fc.jpg",
+                    "Link":"https://github.com/JaneAoV/DN-Turbo-File-Skin/raw/main/Violet/PhoHocTap.zip"
+                    },
                     {
                         "SkinName":"Thứ Nguyên Vệ Thần",
                         "Preview":"https://lienquan.garena.vn/files/skin/5a230c283bc53d65263a2767c4d5aa695d47db1ec7d73.png",
-                        "Link":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/FileSkin/Violet/TNVT.zip"
+                        "Link":"https://github.com/JaneAoV/DN-Turbo-File-Skin/raw/main/Violet/ThuNguyenVeThan.zip"
                         },
                         {
                             "SkinName":"Pháo Hoa Neon",
                             "Preview":"https://lienquan.garena.vn/files/skin/101cc6d1d768baa1c7c2d3cc030bdae55c4ed09b70111.jpg",
-                            "Link":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/FileSkin/Violet/PhaoHoaNeon.zip"
+                            "Link":"https://github.com/JaneAoV/DN-Turbo-File-Skin/raw/main/Violet/PhaoHoaNeon.zip"
                             },
                             {
                                 "SkinName":"Đặc Dị",
                                 "Preview":"https://lienquan.garena.vn/files/skin/111216db1369b3c62923569cf8d5743f5e4b566b877cf.jpg",
-                                "Link":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/FileSkin/Violet/DacDi.zip"
+                                "Link":"https://github.com/JaneAoV/DN-Turbo-File-Skin/raw/main/Violet/DacDi.zip"
                                 },
                                 {
                                     "SkinName":"Vợ Người Ta",
                                     "Preview":"https://lienquan.garena.vn/files/skin/c3e64aed1b62e81570e9e8e88839b4d85e413ae86c7cb.jpg",
-                                    "Link":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/FileSkin/Violet/VoNguoiTa.zip"
+                                    "Link":"https://github.com/JaneAoV/DN-Turbo-File-Skin/raw/main/Violet/VoNguoiTa.zip"
                                     },
-                                   
+                                    {
+                                        "SkinName":"Tay Súng Siêu Phàm",
+                                        "Preview":"https://lienquan.garena.vn/files/skin/bb8e31c69b000045c9695d68d6177c305d2564cab62c4.jpg",
+                                        "Link":""
+                                        },
+                                        {
+                                            "SkinName":"Huy Chương Vàng",
+                                            "Preview":"https://github.com/JaneAoV/Skin_Preview/raw/main/Violet/violympic.jpg",
+                                            "Link":"https://github.com/JaneAoV/DN-Turbo-File-Skin/raw/main/Violet/HuyChuong.zip"
+                                            },
                                             {
                                                 "SkinName":"Huyết Ma Thần",
                                                 "Preview":"https://lienquan.garena.vn/files/skin/1ec7fa6fe82686a4ce793e21ad0f8fde6116c5c160c73.png",
-                                                "Link":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/FileSkin/Violet/HuyetMaThan.zip"
+                                                "Link":"https://github.com/JaneAoV/DN-Turbo-File-Skin/raw/main/Violet/HuyetMaThan.zip"
                                                 },
                                                 {
                                                     "SkinName":"Lam Tước",
                                                     "Preview":"https://lienquan.garena.vn/files/skin/c344b9c557d32499b14380d6e4076a8b6116c5eeba702.png",
-                                                    "Link":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/FileSkin/Violet/LamTuoc.zip"
+                                                    "Link":"https://github.com/JaneAoV/DN-Turbo-File-Skin/raw/main/Violet/LamTuoc.zip"
                                                     },
                                                     {
                                                         "SkinName":"Thần Long Tỷ Tỷ",
                                                         "Preview":"https://github.com/JaneAoV/Skin_Preview/raw/main/Violet/violongtyty.jpg",
-                                                        "Link":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/FileSkin/Violet/ThanLongTyTy.zip"
+                                                        "Link":"https://github.com/JaneAoV/DN-Turbo-File-Skin/raw/main/Violet/LongTyTy.zip"
                                                         }
 ]

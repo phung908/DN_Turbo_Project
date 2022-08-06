@@ -1,17 +1,27 @@
 [
 {
+"SkinName":"Đặc Cảnh NYPD",
+"Preview":"https://lienquan.garena.vn/files/skin/58922be4a508108552db403fb6c031295b88ea54cffa1.jpg",
+"Link":"https://github.com/JaneAoV/DN-Turbo-File-Skin/raw/main/Amily/DacCanh.zip"
+},
+{
     "SkinName":"Đặc Công Nhện Đỏ",
     "Preview":"https://lienquan.garena.vn/files/skin/377238cf21ad73aa0fbcf77f6185724c5c7e4bd09132f.jpg",
-    "Link":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/FileSkin/Amily/DacCongNhenDo.zip"
+    "Link":"https://github.com/JaneAoV/DN-Turbo-File-Skin/raw/main/Amily/DacCongNhenDo.zip"
     },
+    {
+        "SkinName":"Thư Ký",
+        "Preview":"https://lienquan.garena.vn/files/skin/32d9ee54dc31eb8dfed5342aef3846995c62405f5a058.jpg",
+        "Link":"https://github.com/JaneAoV/DN-Turbo-File-Skin/raw/main/Amily/ThuKy.zip"
+        },
         {
             "SkinName":"Thỏ May Mắn",
             "Preview":"https://lienquan.garena.vn/files/skin/fd1286a8e58883aa706889ee564479c35e4534751be04.jpg",
-            "Link":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/FileSkin/Amily/ThoMayMan.zip"
+            "Link":"https://github.com/JaneAoV/DN-Turbo-File-Skin/raw/main/Amily/ThoMayMan.zip"
             },
             {
                 "SkinName":"Võ Thần Thiên Hà",
                 "Preview":"https://lienquan.garena.vn/files/skin/0db9aaeb584e9fc8b692218f424759705fbcba42aef69.jpg",
-                "Link":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/FileSkin/Amily/VoThanThienHa.zip"
+                "Link":"https://github.com/JaneAoV/DN-Turbo-File-Skin/raw/main/Amily/VoThanThienHa.zip"
                 }
 ]

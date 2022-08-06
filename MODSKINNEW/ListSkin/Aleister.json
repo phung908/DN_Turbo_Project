@@ -1,7 +1,27 @@
 [
 {
-"SkinName":"Quỷ Soái Nguyệt Tộc",
-"Preview":"https://lienquan.garena.vn/files/skin/425af35e04ac56dba5259430dadd75335ec9159218c89.jpg",
-"Link":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/FileSkin/Aleister/QuySoaiNguyetToc.zipp"
-}
+"SkinName":"Thiếu Niên Hắc Ám",
+"Preview":"https://lienquan.garena.vn/files/skin/fce1d984d1d72596a44ce17027b7976b59d1ad0d98014.jpg",
+"Link":""
+},
+{
+    "SkinName":"Quang Vinh",
+    "Preview":"https://lienquan.garena.vn/files/skin/dde4315d3872f16c23df92117c9d5cca5aa0e736a63b5.jpg",
+    "Link":""
+    },
+    {
+        "SkinName":"Quỷ Soái Nguyệt Tộc",
+        "Preview":"https://lienquan.garena.vn/files/skin/425af35e04ac56dba5259430dadd75335ec9159218c89.jpg",
+        "Link":"https://github.com/JaneAoV/DN-Turbo-File-Skin/raw/main/Aleister/QuySoaiNguyetToc.zip"
+        },
+        {
+            "SkinName":"Siêu Sao Bóng Rổ",
+            "Preview":"https://lienquan.garena.vn/files/skin/1ac3c14431fec404f0a6cad4bea3ee156117556a4009b.png",
+            "Link":"https://github.com/JaneAoV/DN-Turbo-File-Skin/raw/main/Aleister/SieuSaoBongRo.zip"
+            },
+            {
+                "SkinName":"Sứ Xở Thần Tiên",
+                "Preview":"",
+                "Link":"https://github.com/JaneAoV/DN-Turbo-File-Skin/raw/main/Aleister/XuSoThanTien.zip"
+                }
 ]

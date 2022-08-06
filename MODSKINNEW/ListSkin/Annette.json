@@ -1,22 +1,32 @@
 [
+{
+"SkinName":"Nữ Quản Gia",
+"Preview":"https://lienquan.garena.vn/files/skin/59029df87e4ff703efca1a8a0223ea4d5ef60dda8faf4.jpg",
+"Link":"https://github.com/JaneAoV/DN-Turbo-File-Skin/raw/main/Annette/NuQuanGia.zip"
+},
+{
+    "SkinName":"Xứ Sở Thần Tiên",
+    "Preview":"https://lienquan.garena.vn/files/skin/905930cde900dcb2007790a273ae12275c624099dc1e4.jpg",
+    "Link":"https://github.com/JaneAoV/DN-Turbo-File-Skin/raw/main/Annette/SuSoThanTien.zip"
+    },
     {
         "SkinName":"Thần Tượng Âm Nhạc",
         "Preview":"https://lienquan.garena.vn/files/skin/0a90bb6e6bed1d9843aa44d5d5efefbf5d3829dadd561.jpg",
-        "Link":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/FileSkin/Annette/ThanTuongAmNhac.zip"
+        "Link":"https://github.com/JaneAoV/DN-Turbo-File-Skin/raw/main/Annette/ThanTuongAmNhac.zip"
         },
         {
             "SkinName":"Tiệc Bãi Biển",
             "Preview":"https://lienquan.garena.vn/files/skin/5f1e88f15feea472a4468b12a80d71cd5fbb6c76dd3b5.jpg",
-            "Link":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/FileSkin/Annette/TiecBaiBien.zip"
+            "Link":"https://github.com/JaneAoV/DN-Turbo-File-Skin/raw/main/Annette/TiecBaiBien.zip"
             },
     {
             "SkinName":"Vân Mộng Tiên Tử",
             "Preview":"https://github.com/JaneAoV/Skin_Preview/raw/main/Annette/annetvanmong.jpg",
-            "Link":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/FileSkin/Annette/VanMongTienTu.zip"
+            "Link":""
             },
             {
                 "SkinName":"Nữ Sinh Trung Học",
                 "Preview":"https://github.com/JaneAoV/Skin_Preview/raw/main/Annette/annetnusinh.jpg",
-                "Link":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/FileSkin/Annette/NuSinhTrungHoc.zip"
+                "Link":"https://github.com/JaneAoV/DN-Turbo-File-Skin/raw/main/Annette/N%C3%BAinhTrungHoc.zip"
                 }
 ]

@@ -1,7 +1,17 @@
 [
 {
+"SkinName":"Hắc Kiếm Sĩ Kirito",
+"Preview":"https://lienquan.garena.vn/files/skin/f7696367c10acf27c7b75ce22bf5a8f05f08440a7d0f1.jpg",
+"Link":"https://github.com/JaneAoV/DN-Turbo-File-Skin/raw/main/Allain/HacKienSi.zip"
+},
+{
     "SkinName":"Kirito",
     "Preview":"https://lienquan.garena.vn/files/skin/7e734b8abc966d91a4dc371878546ed56116c8d4dc639.png",
-    "Link":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/FileSkin/Allain/Kirito.zip"
-    }
-  ]
+    "Link":"https://github.com/JaneAoV/DN-Turbo-File-Skin/raw/main/Allain/Kirito.zip"
+    },
+    {
+        "SkinName":"Thần Mặt Trời",
+        "Preview":"https://github.com/JaneAoV/Skin_Preview/raw/main/Allain/allainthanmattroi.jpg",
+        "Link":"https://github.com/JaneAoV/DN-Turbo-File-Skin/raw/main/Allain/ThanMatTroi.zip"
+        }
+]

@@ -82,5 +82,17 @@
 "Name":"Batman",
 "Icon":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/HeroIcon/Batman.jpg",
 "Link":"https://raw.githubusercontent.com/JaneAoV/DN_Turbo_Project/main/MODSKINNEW/ListSkin/Batman.json"
+},
+{
+"Loai":"DauSi",
+"Name":"Arduin",
+"Icon":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/HeroIcon/Arduin.jpg",
+"Link":"https://raw.githubusercontent.com/JaneAoV/DN_Turbo_Project/main/MODSKINNEW/ListSkin/Arduin.json"
+},
+{
+"Loai":"PhapSu",
+"Name":"Gildur",
+"Icon":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/HeroIcon/Gildur.jpg",
+"Link":"https://raw.githubusercontent.com/JaneAoV/DN_Turbo_Project/main/MODSKINNEW/ListSkin/Gildur.json"
 }
 ]

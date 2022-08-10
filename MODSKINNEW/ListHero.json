@@ -256,5 +256,11 @@
 "Name":"YBneth",
 "Icon":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/HeroIcon/Ybneth.jpg",
 "Link":"https://raw.githubusercontent.com/JaneAoV/DN_Turbo_Project/main/MODSKINNEW/ListSkin/YBneth.json"
+},
+{
+"Loai":"DauSi",
+"Name":"Zephys",
+"Icon":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/HeroIcon/Zephys.jpg",
+"Link":"https://raw.githubusercontent.com/JaneAoV/DN_Turbo_Project/main/MODSKINNEW/ListSkin/Zephys.json"
 }
 ]

@@ -7,28 +7,34 @@
 {
     "SkinName":"Thế Tử Nguyệt Tộc",
     "Preview":"https://lienquan.garena.vn/files/skin/d1ed3f5e5ec0571aadb78a6f250f8c465a5837bced14f.jpg",
-    "Link":"https://github.com/JaneAoV/DN-Turbo-File-Skin/raw/main/Yorn/TheTuNguyetToc.zip"
+    "Link":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/FileSkin/Yorn/TheTuMhuyetToc.zip"
     },
     {
         "SkinName":"Đặc Nhiệm SWAT",
         "Preview":"https://lienquan.garena.vn/files/skin/f914edcbee62195744b603b1b22a355d59c6227d5fab8.jpg",
-        "Link":"https://github.com/JaneAoV/DN-Turbo-File-Skin/raw/main/Yorn/DacNhiemSwat.zip"
-        },
+        "Link":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/FileSkin/Yorn/DacNhiemSwat.zip"
+        }, 
         {
             "SkinName":"Long Thần Soái",
             "Preview":"https://lienquan.garena.vn/files/skin/19940bfcf0a81d06f2d9bee52780782f5c6240ad5d6e3.jpg",
-            "Link":"https://github.com/JaneAoV/DN-Turbo-File-Skin/raw/main/Yorn/LongThanSoai.zip"
+            "Link":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/FileSkin/Yorn/LongThanSoai.zip"
             },
+    {
+                        "SkinName":"Hiệp Khách",
+                        "Preview":"",
+                        "Link":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/FileSkin/Yorn/HiepKhach.zip"
+                        },
             {
                 "SkinName":"Nam Thần Dạ Hội",
                 "Preview":"https://lienquan.garena.vn/files/skin/d20a60d620a9ae6479e6b546b9eb36e75e413c80a4dfd.jpg",
-                "Link":"https://github.com/JaneAoV/DN-Turbo-File-Skin/raw/main/Yorn/NamThanDaHoi.zip"
+                "Link":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/FileSkin/Yorn/NamThanGiangSinh.zip"
                 },
                 {
                     "SkinName":"Soái Ca Học Đường",
                     "Preview":"https://lienquan.garena.vn/files/skin/e087c5a29ee197430a7e44819c1780485fbb6e3ebed37.png",
-                    "Link":"https://github.com/JaneAoV/DN-Turbo-File-Skin/raw/main/Yorn/SoaiCaHocDuong.zip"
+                    "Link":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/FileSkin/Yorn/SoaiCaHocDuong.zip"
                     },
+                   
                     {
                         "SkinName":"Thần Thoại Hi Lạp",
                         "Preview":"https://lienquan.garena.vn/files/skin/5d3edf223004f53466f8f5410553ca576116cb58c9c7b.png",

@@ -1,31 +1,37 @@
 [
 {
 "SkinName":"Cảnh Vệ Thảo Nguyên",
+"Sound":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/FileIconSound/Elsu/CanhVeThaoNguyen.zip",
 "Preview":"https://lienquan.garena.vn/files/skin/66b71060dc113135581e6983a590bb045ef5f4f7116a5.jpg",
 "Link":"https://github.com/JaneAoV/DN-Turbo-File-Skin/raw/main/Elsu/CanhVeThaoNguyen.zip"
 },
 {
     "SkinName":"Mafia",
+    "Sound":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/FileIconSound/Elsu/Mafia.zip",
     "Preview":"https://lienquan.garena.vn/files/skin/b4df1c0fa5e24e16da5a9c9541bf50b95bc98fca94c13.jpg",
     "Link":"https://github.com/JaneAoV/DN-Turbo-File-Skin/raw/main/Elsu/Mafia.zip"
     },
     {
         "SkinName":"Kèn Ái Tình",
+        "Sound":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/FileIconSound/Elsu/KenTinhAi.zip",
         "Preview":"https://lienquan.garena.vn/files/skin/5cf2a5b09915dc689482968629eedfbd5c623e3732c1f.jpg",
         "Link":"https://github.com/JaneAoV/DN-Turbo-File-Skin/raw/main/Elsu/KenTinhAi.zip"
         },
         {
             "SkinName":"Chiến Binh Bóng Tối",
+            "Sound":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/FileIconSound/Elsu/ChienBinhBongToi.zip",
             "Preview":"https://lienquan.garena.vn/files/skin/54bd36c2b3f27e0d91db1665f4e542115d6f9c408d09f.jpg",
             "Link":"https://github.com/JaneAoV/DN-Turbo-File-Skin/raw/main/Elsu/ChienBinhBongToi.zip"
             },
             {
                 "SkinName":"Sứ Giả Tận Thế",
+                "Sound":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/FileIconSound/Elsu/SuGiaTanThe.zip",
                 "Preview":"https://lienquan.garena.vn/files/skin/742ade5e200598209af8050dd019b5285ed0d57e1a527.jpg",
                 "Link":"https://github.com/JaneAoV/DN-Turbo-File-Skin/raw/main/Elsu/SuGiaTanThe.zip"
                 },
                 {
                     "SkinName":"Tuyết Ưng",
+                    "Sound":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/FileIconSound/Elsu/TuyetUng.zip",
                     "Preview":"https://github.com/JaneAoV/DN-Turbo-File-Skin/raw/main/Elsu/TuyetUng.zip",
                     "Link":""
                     }

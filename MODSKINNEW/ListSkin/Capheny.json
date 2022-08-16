@@ -1,31 +1,37 @@
 [
 {
 "SkinName":"Hầu gái",
+"Sound":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/FileIconSound/Capheny/HauGai.zip",
 "Preview":"https://lienquan.garena.vn/files/skin/9b4c86ba8f3227429dbd5d3a183afbe85ca5c248ba416.jpg",
 "Link":"https://github.com/JaneAoV/DN-Turbo-File-Skin/raw/main/Capheny/HauGai.zip"
 },
 {
     "SkinName":"Thần tượng âm nhạc",
+    "Sound":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/FileIconSound/Capheny/ThanTuongAmNhac.zip",
     "Preview":"https://lienquan.garena.vn/files/skin/8b008d50dc05d0a17a9f7e840189f8625d3829f215ab7.jpg",
     "Link":"https://github.com/JaneAoV/DN-Turbo-File-Skin/raw/main/Capheny/ThanTuongAmNhac.zip"
     },
     {
         "SkinName":"Toán hoá sinh",
+        "Sound":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/FileIconSound/Capheny/ToanHoaSinh.zip",
         "Preview":"https://lienquan.garena.vn/files/skin/09c6cee937fac5c09c27de1c342982225fbcb8ac95908.jpg",
         "Link":""
         },
         {
             "SkinName":"Kimono",
+            "Sound":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/FileIconSound/Capheny/Kimono.zip",
             "Preview":"https://lienquan.garena.vn/files/skin/47884f2fd34e454ad1ea0fdf0f9581955ed0939e0fd09.jpg",
             "Link":"https://github.com/JaneAoV/DN-Turbo-File-Skin/raw/main/Capheny/Kimono.zip"
             },
             {
                 "SkinName":"Siêu cấp tin tặc",
+                "Sound":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/FileIconSound/Capheny/SieuCapTinTac.zip",
                 "Preview":"https://github.com/JaneAoV/Skin_Preview/raw/main/Capheny/caphenyTintac.jpg",
                 "Link":"https://github.com/JaneAoV/DN-Turbo-File-Skin/raw/main/Capheny/SieuCapTinTac.zip"
                 },
             {
                 "SkinName":"Harley Quinn",
+                "Sound":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/FileIconSound/Capheny/Queen.zip",
                 "Preview":"https://github.com/JaneAoV/Skin_Preview/raw/main/Capheny/HarleyQuinn.jpg",
                 "Link":"https://github.com/JaneAoV/DN-Turbo-File-Skin/raw/main/Capheny/HarleyQuinn.zip"
                 }

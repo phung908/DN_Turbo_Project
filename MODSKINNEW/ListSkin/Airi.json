@@ -1,61 +1,73 @@
 [
 {
 "SkinName":"Thích Khách",
+"Sound":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/FileIconSound/Airi/ThichKhach.zip",
 "Preview":"https://lienquan.garena.vn/files/skin/ab3664fa2804c2fb0d3788615369507b59f04b5265682.jpg",
 "Link":""
 },
 {
     "SkinName":"Ninja Xanh Lá",
+    "Sound":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/FileIconSound/Airi/NinjaXanhLa.zip",
     "Preview":"https://lienquan.garena.vn/files/skin/bb2890b57668757b5009ef0e01d162135965faca410ed.jpg",
     "Link":""
     },
     {
         "SkinName":"Quái Xế Công Nghệ",
+        "Sound":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/FileIconSound/Airi/QuaiXeXongNghe.zip",
         "Preview":"https://lienquan.garena.vn/files/skin/6a93d8e011eb861d8584f0a35ee87bab5cf6597ed1a3d.jpg",
         "Link":""
         },
         {
             "SkinName":"Cấm Vệ Nguyệt Tộc",
+            "Sound":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/FileIconSound/Airi/CamVeNguyetToc.zip",
             "Preview":"https://lienquan.garena.vn/files/skin/27867a036334b96777db4849ff7f97b65a9776186d866.jpg",
             "Link":""
             },
             {
                 "SkinName":"Kiemono",
+                "Sound":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/FileIconSound/Airi/Kiemono.zip",
                 "Preview":"https://lienquan.garena.vn/files/skin/eca59afef8741898d0ae059e16ccbbd15ae17132e1a74.jpg",
                 "Link":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/FileSkin/Airi/Kiemono.zip"
                 },
                 {
                     "SkinName":"Bạch Kiemono",
+                    "Sound":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/FileIconSound/Airi/BachKiemono.zip",
                     "Preview":"https://lienquan.garena.vn/files/skin/64d712b709033324c7e2e68648200b2b5cf634703fb39.jpg",
                     "Link":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/FileSkin/Airi/BachKiemono.zip"
                     },
                     {
                         "SkinName":"Phó Kiếm Đạo",
+                        "Sound":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/FileIconSound/Airi/PhoKiemDao.zip",
                         "Preview":"https://lienquan.garena.vn/files/skin/9b5d286a2eba690a6e1b64213242b9fb5cd1148e6aa56.jpg",
                         "Link":""
                         },
                         {
                             "SkinName":"Tiệc Bãi Biển",
+                            "Sound":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/FileIconSound/Airi/TiecBaiBien.zip",
                             "Preview":"https://lienquan.garena.vn/files/skin/0d11324a89d82078b8229be816d56da45d270e0176c66.jpg",
                             "Link":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/FileSkin/Airi/TiecBaiBien.zip"
                             },
                             {
                                 "SkinName":"Mỵ Hồ",
+                                "Sound":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/FileIconSound/Airi/MyHo.zip",
                                 "Preview":"https://lienquan.garena.vn/files/skin/de4231b4ff4c6e19f9b7d1efcbb06f765e453137b361f.jpg",
                                 "Link":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/FileSkin/Airi/MyHo.zip"
                                 },
                                 {
                                     "SkinName":"Đặc Công Tử Diệp",
+                                    "Sound":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/FileIconSound/Airi/DacCongTuDiep.zip",
                                     "Preview":"https://lienquan.garena.vn/files/skin/40b44b03bcf8846f261af6556410ee1b5fbb7246bb102.jpg",
                                     "Link":""
                                     },
                                     {
                                         "SkinName":"Bích Hải Thánh Nữ",
+                                        "Sound":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/FileIconSound/Airi/BichHai.zip",
                                         "Preview":"https://github.com/JaneAoV/Skin_Preview/raw/main/Airi/bichhai.jpg",
                                         "Link":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/FileSkin/Airi/BichHai.zip"
                                         },
                                         {
                                             "SkinName":"Lễ Hội Mùa Xuân",
+                                            "Sound":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/FileIconSound/Airi/LeHoiMuaXuan.zip",
                                             "Preview":"https://lienquan.garena.vn/files/skin/05d7ea679c6f3c691f029ff2773afe2d61175f5a2c357.png",
                                             "Link":""
                                             }

@@ -1,61 +1,73 @@
 [
 {
 "SkinName":"Thợ Săn Tiền Thưởng",
+    "Sound":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/FileIconSound/Murad/ThoSanTienThuong.zip",
 "Preview":"https://lienquan.garena.vn/files/skin/836770165ef5132ef5a3a8e00decbf1a5983e6e00531f.jpg",
 "Link":""
 },
 {
     "SkinName":"M-TP Thần Tượng Học Đường",
+    "Sound":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/FileIconSound/Murad/MTP.zip",
     "Preview":"https://lienquan.garena.vn/files/skin/5e775f1787d59bc3ee6adc4316c05ecf5a698f791b57f.jpg",
     "Link":""
     },
     {
         "SkinName":"Đồ Thần Đao",
+        "Sound":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/FileIconSound/Murad/DoThanDao.zip",
         "Preview":"https://lienquan.garena.vn/files/skin/36379b68b423edb123a34627655face35c3dac44457b5.jpg",
         "Link":""
         },
         {
             "SkinName":"Siêu Việt",
+            "Sound":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/FileIconSound/Murad/SieuViet.zip",
             "Preview":"https://lienquan.garena.vn/files/skin/090d96a5955687155dc3e4c46d0e383f5b86850280f19.jpg",
             "Link":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/FileSkin/Murad/SieuViet.zip"
             },
             {
                 "SkinName":"Thiên Tài Sân Cỏ",
+                "Sound":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/FileIconSound/Murad/ThienTaiSanCo.zip",
                 "Preview":"https://lienquan.garena.vn/files/skin/f6fa48dd609d6de3a3754ec6efdddcbc5b1f9fd417406.jpg",
                 "Link":""
                 },
                 {
                     "SkinName":"Điệp Viên Anubis",
+                    "Sound":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/FileIconSound/Murad/DiepVienAnubis.zip",
                     "Preview":"https://lienquan.garena.vn/files/skin/eb6a9ff760343c00c0c3bb3b51afb1835ed4a993e08f2.jpg",
                     "Link":""
                     },
                     {
                         "SkinName":"Đặc Dị",
+                        "Sound":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/FileIconSound/Murad/DacDi.zip",
                         "Preview":"https://lienquan.garena.vn/files/skin/a54de8115e57ad1eae9781745c75f97b5d6f9bad13e93.jpg",
                         "Link":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/FileSkin/Murad/DacDi.zip"
                         },
                         {
                             "SkinName":"Siêu Việt 2.0",
+                            "Sound":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/FileIconSound/Murad/SieuViet2.0.zip",
                             "Preview":"https://lienquan.garena.vn/files/skin/3142fb33cdfa08dd47ec01619a8342c85d9d596e9a20d.jpg",
-                            "Link":"https://github.com/JaneAoV/DN_Turbo_Project/blob/main/MODSKINNEW/FileSkin/Murad/SieuViet2.0.zip"
+                            "Link":""
                             },
                             {
                                 "SkinName":"Chí Tôn Thần Kiếm",
+                                "Sound":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/FileIconSound/Murad/ChiTon.zip",
                                 "Preview":"https://lienquan.garena.vn/files/skin/462617b2dddcf398dec4dff23fd057d65fa8b99e440be.jpg",
                                 "Link":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/FileSkin/Murad/ChiTon.zip"
                                 },
                                 {
                                     "SkinName":"Dược Sĩ Tình Yêu",
+                                    "Sound":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/FileIconSound/Murad/DuocSiTinhYeu.zip",
                                     "Preview":"https://lienquan.garena.vn/files/skin/099ed26499404aa419c213b825232091611761978c0ec.png",
                                     "Link":"https://github.com/JaneAoV/DN_Turbo_Project/blob/main/MODSKINNEW/FileSkin/Murad/DuocSiTinhYeu.zip"
                                     },
                                     {
                                         "SkinName":"Byakuya Kuchiki",
+                                        "Sound":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/FileIconSound/Murad/Byakuya.zip",
                                         "Preview":"https://github.com/JaneAoV/Skin_Preview/raw/main/Murad/muradbakuya.jpg",
                                         "Link":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/FileSkin/Murad/Byakuya.zip"
                                         },
                                     {
                                         "SkinName":"Zenitsu",
+                                        "Sound":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/FileIconSound/Murad/Zenitsu.zip",
                                         "Preview":"",
                                         "Link":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/FileSkin/Murad/Zenitsu.zip"
                                         }

@@ -1,16 +1,19 @@
 [ 
 {
 "Name":"Fix Lỗi Cam Xa + Mod Skin Không Có Hiệu Ứng",
+"Path":"",
 "Folder":"Ages",
 "Link":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/Feedback/FixAoV/Ages.zip"
 },
 {
 "Name":"Fix Mod Skin Ngoại Hình Mặc Định",
+"Path":"on",
 "Folder":"Prefab_Characters",
 "Link":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/Feedback/FixAoV/Prefab.zip"
 }, 
 {
 "Name":"Fix Mod Skin Pack Không Có Âm Thanh, Icon",
+"Path":"on",
 "Folder":"Databin",
 "Link":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/Feedback/FixAoV/Databin.zip"
 }

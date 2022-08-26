@@ -1,6 +1,12 @@
 [
 {
 "Loai":"DauSi",
+"Name":"1 SUPPORT RANK BOOSTER",
+"Icon":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/HeroIcon/Zephys.jpg",
+"Link":"https://raw.githubusercontent.com/JaneAoV/DN_Turbo_Project/main/MODSKINNEW/ModFullSkin/ListSkin/1.json"
+},
+{
+"Loai":"DauSi",
 "Name":"Zephys",
 "Icon":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/HeroIcon/Zephys.jpg",
 "Link":"https://raw.githubusercontent.com/JaneAoV/DN_Turbo_Project/main/MODSKINNEW/ModFullSkin/ListSkin/107.json"

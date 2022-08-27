@@ -1,7 +1,13 @@
 [
 {
-"Loai":"DauSi",
-"Name":"1 SUPPORT RANK BOOSTER",
+"Loai":"",
+"Name":"1 RESTORE SKIN",
+"Icon":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/ModFullSkin/SkinImage/no_image.png",
+"Link":"https://raw.githubusercontent.com/JaneAoV/DN_Turbo_Project/main/MODSKINNEW/ModFullSkin/ListSkin/0.json"
+},
+{
+"Loai":"",
+"Name":"2 SUPPORT RANK BOOSTER",
 "Icon":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/ModNew/Image/level.png",
 "Link":"https://raw.githubusercontent.com/JaneAoV/DN_Turbo_Project/main/MODSKINNEW/ModFullSkin/ListSkin/1.json"
 },

@@ -3,30 +3,30 @@
 "ID":"",
 "SkinName":"Mặc Định",
 "Preview":"https://lienquan.garena.vn/files/skin/1009dcdfe78de2f6bc7fbdaea21cabc05df21983343f8.jpg",
-"Sound":"",
-"Ages":"",
-"Prefab":"",
-"Databin":"",
-"Extra":"/526/526.zip"
+"Ages":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Ages/526/526.zip",
+"Back":"",
+"Prefab":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Prefab/526/526.zip",
+"Databin":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Databin/526/526.zip",
+"Extra":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Extra/526/526.zip"
 },
 {
 "ID":"",
 "SkinName":"Tiểu Thư Kẹo Ngọt",
 "Preview":"https://lienquan.garena.vn/files/skin/fa4b30e9ecb9a9ba2ab5b52ddd0840dd5e4534bbd0e20.jpg",
-"Sound":"",
-"Ages":"",
-"Prefab":"",
-"Databin":"",
-"Extra":"/526/52602.zip"
+"Ages":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Ages/526/52602.zip",
+"Back":"",
+"Prefab":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Prefab/526/52602.zip",
+"Databin":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Databin/526/52602.zip",
+"Extra":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Extra/526/52602.zip"
 },
 {
 "ID":"",
 "SkinName":"Gián Điệp Hackẻ Lỏ :)",
 "Preview":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/ModFullSkin/SkinImage/526/5265.jpg",
-"Sound":"",
-"Ages":"",
-"Prefab":"",
-"Databin":"",
-"Extra":"/526/52606.zip"
+"Ages":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Ages/526/52606.zip",
+"Back":"",
+"Prefab":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Prefab/526/52606.zip",
+"Databin":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Databin/526/52606.zip",
+"Extra":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Extra/526/52606.zip"
 }
 ]

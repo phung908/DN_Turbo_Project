@@ -3,20 +3,20 @@
 "ID":"",
 "SkinName":"Mặc Định",
 "Preview":"https://lienquan.garena.vn/files/skin/f6eb117d5a3dbb00aeaba0d20c16090f5fc5245f96963.jpg",
-"Sound":"",
-"Ages":"",
-"Prefab":"",
-"Databin":"",
-"Extra":"/534/534.zip"
+"Ages":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Ages/534/534.zip",
+"Back":"",
+"Prefab":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Prefab/534/534.zip",
+"Databin":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Databin/534/534.zip",
+"Extra":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Extra/534/534.zip"
 },
 {
 "ID":"",
 "SkinName":"Quận Chúa Tuyết",
 "Preview":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/ModFullSkin/SkinImage/534/5342.jpg",
-"Sound":"",
-"Ages":"",
-"Prefab":"",
-"Databin":"",
-"Extra":"/534/53402.zip"
+"Ages":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Ages/534/53402.zip",
+"Back":"",
+"Prefab":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Prefab/534/53402.zip",
+"Databin":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Databin/534/53402.zip",
+"Extra":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Extra/534/53402.zip"
 }
 ]

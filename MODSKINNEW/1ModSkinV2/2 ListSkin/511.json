@@ -1,0 +1,32 @@
+[
+{
+"ID":"",
+"SkinName":"Mặc Định",
+"Preview":"https://lienquan.garena.vn/files/skin/206f1bf38f4e3caf5dcf853618e17a1f5e57c0578a9db.jpg",
+"Ages":"",
+"Back":"",
+"Prefab":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Prefab/511/511.zip",
+"Databin":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Databin/511/511.zip",
+"Extra":""
+},
+{
+"ID":"",
+"SkinName":"Tân Thuỷ Thủ",
+"Preview":"https://lienquan.garena.vn/files/skin/3016655774a3bd05fc47594e28f701075e57c0f3cada5.jpg",
+"Ages":"",
+"Back":"",
+"Prefab":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Prefab/511/51101.zip",
+"Databin":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Databin/511/51101.zip",
+"Extra":""
+},
+{
+"ID":"",
+"SkinName":"Cao Bồi",
+"Preview":"https://lienquan.garena.vn/files/skin/868c689e18c67d02d746e4976d156cde5fbcbfe6321a3.jpg",
+"Ages":"",
+"Back":"",
+"Prefab":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Prefab/511/51102.zip",
+"Databin":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Databin/511/51102.zip",
+"Extra":""
+}
+]

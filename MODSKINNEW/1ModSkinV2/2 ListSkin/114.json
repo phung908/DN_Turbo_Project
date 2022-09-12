@@ -1,0 +1,32 @@
+[
+{
+"ID":"",
+"SkinName":"Mặc Định",
+"Preview":"https://lienquan.garena.vn/files/skin/1e85e21c964a18bba0550510c4ec18995fbcbaf76aa39.jpg",
+"Ages":"",
+"Back":"",
+"Prefab":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Prefab/114/114.zip",
+"Databin":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Databin/114/114.zip",
+"Extra":""
+},
+{
+"ID":"",
+"SkinName":"Người Máy Xanh",
+"Preview":"https://lienquan.garena.vn/files/skin/e051f8beef38df6a20d12e5d9d04b9025fbcbff261ac5.jpg",
+"Ages":"",
+"Back":"",
+"Prefab":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Prefab/114/11402.zip",
+"Databin":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Databin/114/11402.zip",
+"Extra":""
+},
+{
+"ID":"",
+"SkinName":"Cỗ Máy Siêu Tốc	",
+"Preview":"https://lienquan.garena.vn/files/skin/026348b63a2a3fefe6da16cd5831f0aa6116b94e62779.jpg",
+"Ages":"",
+"Back":"",
+"Prefab":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Prefab/114/11403.zip",
+"Databin":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Databin/114/11403.zip",
+"Extra":""
+}
+]

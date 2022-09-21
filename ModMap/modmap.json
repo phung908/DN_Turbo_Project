@@ -1,12 +1,17 @@
 [
 {
-"Name":"Map Gốc 1.46.2",
+"Name":"Map Gốc",
 "Preview":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/Preview/Map1.44.png",
 "Link":"https://github.com/JaneAoV/DN_Turbo_Project/releases/download/Map/MapGoc1.46.2.zip"
 },
 {
-"Name":"Map HD 1.46.2",
+"Name":"Map HD",
 "Preview":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/Preview/Map1.44.png",
+"Link":"https://github.com/JaneAoV/DN_Turbo_Project/releases/download/Map/MapHD1.46.2.zip"
+},
+{
+"Name":"Map Màn Đêm Vô Tận",
+"Preview":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/Preview/MapDenSS23.png",
 "Link":"https://github.com/JaneAoV/DN_Turbo_Project/releases/download/Map/MapHD1.46.2.zip"
 }
 ]

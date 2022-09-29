@@ -41,6 +41,16 @@
 },
 {
 "ID":"",
+"SkinName":"",
+"Preview":"",
+"Ages":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Ages/166/16604.zip",
+"Back":"",
+"Prefab":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Prefab/166/16604.zip",
+"Databin":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Databin/166/16604.zip",
+"Extra":""
+},
+{
+"ID":"",
 "SkinName":"Đặc Cảnh Băng Lôi",
 "Preview":"https://lienquan.garena.vn/files/skin/1a3740d22f009e95f1918f9e9be6d14f5ecdf2d050884.jpg",
 "Ages":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Ages/166/16605.zip",

@@ -11,6 +11,16 @@
 },
 {
 "ID":"",
+"SkinName":"",
+"Preview":"",
+"Ages":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Ages/167/16701.zip",
+"Back":"",
+"Prefab":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Prefab/167/16701.zip",
+"Databin":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Databin/167/16701.zip",
+"Extra":""
+},
+{
+"ID":"",
 "SkinName":"Hoả Nhãn Kim Tinh",
 "Preview":"https://lienquan.garena.vn/files/skin/3683832b4952d76c9430b7eba1fff70a5a93820f5b68a.jpg",
 "Ages":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Ages/167/16702.zip",
@@ -61,6 +71,16 @@
 },
 {
 "ID":"",
+"SkinName":"",
+"Preview":"",
+"Ages":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Ages/167/16707.zip",
+"Back":"",
+"Prefab":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Prefab/167/16707.zip",
+"Databin":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Databin/167/16707.zip",
+"Extra":""
+},
+{
+"ID":"",
 "SkinName":"Tề Thiên Ma Hầu",
 "Preview":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/ModFullSkin/SkinImage/167/1678.jpg",
 "Ages":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Ages/167/16708.zip",
@@ -68,5 +88,15 @@
 "Prefab":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Prefab/167/16708.zip",
 "Databin":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Databin/167/16708.zip",
 "Extra":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Extra/167/16708.zip"
+},
+{
+"ID":"",
+"SkinName":"",
+"Preview":"",
+"Ages":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Ages/167/16709.zip",
+"Back":"",
+"Prefab":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Prefab/167/16709.zip",
+"Databin":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Databin/167/16709.zip",
+"Extra":""
 }
 ]

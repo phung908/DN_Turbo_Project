@@ -21,6 +21,16 @@
 },
 {
 "ID":"",
+"SkinName":"",
+"Preview":"",
+"Ages":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Ages/175/17502.zip",
+"Back":"",
+"Prefab":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Prefab/175/17502.zip",
+"Databin":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Databin/175/17502.zip",
+"Extra":""
+},
+{
+"ID":"",
 "SkinName":"Chàng Gấu Tuyết",
 "Preview":"https://lienquan.garena.vn/files/skin/5b3330c7afaf8eeaa1ca092045c3c0195ef5ea4c755bd.jpg",
 "Ages":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Ages/175/17503.zip",

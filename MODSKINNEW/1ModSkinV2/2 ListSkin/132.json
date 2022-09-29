@@ -11,6 +11,16 @@
 },
 {
 "ID":"",
+"SkinName":"",
+"Preview":"",
+"Ages":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Ages/132/13201.zip",
+"Back":"",
+"Prefab":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Prefab/132/13201.zip",
+"Databin":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Databin/132/13201.zip",
+"Extra":""
+},
+{
+"ID":"",
 "SkinName":"Chiến Binh Trăng Khuyết",
 "Preview":"https://lienquan.garena.vn/files/skin/6c967aaa8a93a9c61a0c1627ccb6e19f5d9d58e82b2df.jpg",
 "Ages":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Ages/132/13202.zip",

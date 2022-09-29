@@ -11,6 +11,16 @@
 },
 {
 "ID":"",
+"SkinName":"",
+"Preview":"",
+"Ages":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Ages/174/17401.zip",
+"Back":"",
+"Prefab":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Prefab/171/17101.zip",
+"Databin":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Databin/171/17101.zip",
+"Extra":""
+},
+{
+"ID":"",
 "SkinName":"Vua Hề",
 "Preview":"https://lienquan.garena.vn/files/skin/f2603572b00409079bb7a8933c0d9ba25ac73df8de91e.jpg",
 "Ages":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Ages/174/17402.zip",

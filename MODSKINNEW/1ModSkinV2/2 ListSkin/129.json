@@ -41,6 +41,16 @@
 },
 {
 "ID":"",
+"SkinName":"",
+"Preview":"",
+"Ages":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Ages/129/12905.zip",
+"Back":"",
+"Prefab":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Prefab/129/12905.zip",
+"Databin":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Databin/129/12905.zip",
+"Extra":""
+},
+{
+"ID":"",
 "SkinName":"Chiến Tướng Mùa Đông",
 "Preview":"https://lienquan.garena.vn/files/skin/c6c1fae81ea54a8bac046a4f55dab4925cc133961a2cc.jpg",
 "Ages":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Ages/129/12906.zip",

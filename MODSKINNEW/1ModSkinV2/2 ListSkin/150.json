@@ -21,6 +21,16 @@
 },
 {
 "ID":"",
+"SkinName":"",
+"Preview":"",
+"Ages":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Ages/150/15002.zip",
+"Back":"",
+"Prefab":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Prefab/150/15002.zip",
+"Databin":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Databin/150/15002.zip",
+"Extra":""
+},
+{
+"ID":"",
 "SkinName":"BBoy Công Nghệ",
 "Preview":"https://lienquan.garena.vn/files/skin/9ca27ec280c4befd2e299ff144b0058459b29278ce71f.jpg",
 "Ages":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Ages/150/15003.zip",

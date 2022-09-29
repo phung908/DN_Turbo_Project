@@ -11,6 +11,16 @@
 },
 {
 "ID":"",
+"SkinName":"Nam Tước",
+"Preview":"",
+"Ages":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Ages/523/52301.zip",
+"Back":"",
+"Prefab":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Prefab/523/52301.zip",
+"Databin":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Databin/523/52301.zip",
+"Extra":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Extra/523/52301.zip"
+},
+{
+"ID":"",
 "SkinName":"Đô Đốc Tinh Hệ",
 "Preview":"https://lienquan.garena.vn/files/skin/5ea64fa8cbeda37f03ff60dbbdd8e20a5d55455a212d7.jpg",
 "Ages":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Ages/523/52302.zip",

@@ -1,20 +1,10 @@
 [
 {
 "ID":"",
-"SkinName":"Mặc Định",
-"Preview":"https://lienquan.garena.vn/files/skin/9b84b7e2b3f71361cc8d0178afb6696e58462fa58e8e0.jpg",
-"Ages":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Ages/118/118.zip",
-"Back":"",
-"Prefab":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Prefab/118/118.zip",
-"Databin":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Databin/118/118.zip",
-"Extra":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Extra/118/118.zip"
-},
-{
-"ID":"",
-"SkinName":"",
+"SkinName":"Nhà Chiêm Tinh",
 "Preview":"",
 "Ages":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Ages/118/11801.zip",
-"Back":"",
+"Back":"https://lienquan.garena.vn/files/skin/4994ed2f082a8bc5a271789f5629e0e058462f5b2a939.jpg",
 "Prefab":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Prefab/118/11801.zip",
 "Databin":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Databin/118/11801.zip",
 "Extra":""
@@ -41,8 +31,8 @@
 },
 {
 "ID":"",
-"SkinName":"",
-"Preview":"",
+"SkinName":"Sứ Xở Thần Tiên",
+"Preview":"https://lienquan.garena.vn/files/skin/48c5b767c0caaf9d1968232e19e6a9b95bfd1e68344c5.jpg",
 "Ages":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Ages/118/11804.zip",
 "Back":"",
 "Prefab":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Prefab/118/11804.zip",
@@ -51,8 +41,8 @@
 },
 {
 "ID":"",
-"SkinName":"",
-"Preview":"",
+"SkinName":"Dạ Hội",
+"Preview":"https://lienquan.garena.vn/files/skin/e5a14bb7c1cc1cf826fe3ace528cefd55ec8fd65dfb95.jpg",
 "Ages":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Ages/118/11805.zip",
 "Back":"",
 "Prefab":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Prefab/118/11805.zip",
@@ -81,8 +71,8 @@
 },
 {
 "ID":"",
-"SkinName":"",
-"Preview":"",
+"SkinName":"Demon Slayer",
+"Preview":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/1SkinPreview/1188.jpg",
 "Ages":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Ages/118/11808.zip",
 "Back":"",
 "Prefab":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Prefab/118/11808.zip",

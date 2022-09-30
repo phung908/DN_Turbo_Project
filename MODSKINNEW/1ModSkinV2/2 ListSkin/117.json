@@ -1,18 +1,8 @@
 [
 {
 "ID":"",
-"SkinName":"Mặc Định",
-"Preview":"https://lienquan.garena.vn/files/skin/25b4f6bda1363a60445f8ab1c32449d25ec27a5a1d741.jpg",
-"Ages":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Ages/117/117.zip",
-"Back":"",
-"Prefab":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Prefab/117/117.zip",
-"Databin":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Databin/117/117.zip",
-"Extra":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Extra/117/117.zip"
-},
-{
-"ID":"",
-"SkinName":"",
-"Preview":"",
+"SkinName":"Cựu Chiến Binh",
+"Preview":"https://lienquan.garena.vn/files/skin/8d23a6b1ce8d95dac6813e99bcdbaa785ec27a456f6d2.jpg",
 "Ages":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Ages/117/11701.zip",
 "Back":"",
 "Prefab":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Prefab/117/11701.zip",
@@ -31,8 +21,8 @@
 },
 {
 "ID":"",
-"SkinName":"",
-"Preview":"",
+"SkinName":"Giáo Viên Thể Hình",
+"Preview":"https://lienquan.garena.vn/files/skin/ed6e8abd6dd5132601c93f7f4b6f69165a8f84cb91685.jpg",
 "Ages":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Ages/117/11704.zip",
 "Back":"",
 "Prefab":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Prefab/117/11704.zip",
@@ -41,8 +31,8 @@
 },
 {
 "ID":"",
-"SkinName":"",
-"Preview":"",
+"SkinName":"Ông Chủ KFC",
+"Preview":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/1SkinPreview/1175.jpg",
 "Ages":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Ages/117/11705.zip",
 "Back":"",
 "Prefab":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Prefab/117/11705.zip",

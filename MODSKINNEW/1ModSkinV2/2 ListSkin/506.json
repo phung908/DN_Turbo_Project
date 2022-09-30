@@ -1,18 +1,8 @@
 [
 {
 "ID":"",
-"SkinName":"Mặc Định",
-"Preview":"https://lienquan.garena.vn/files/skin/ac091c4f83f63e5fe0d04d1d27d6c7f85a73df5236863.jpg",
-"Ages":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Ages/506/506.zip",
-"Back":"",
-"Prefab":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Prefab/506/506.zip",
-"Databin":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Databin/506/506.zip",
-"Extra":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Extra/506/506.zip"
-},
-{
-"ID":"",
 "SkinName":"Sĩ Quan Viễn Chinh",
-"Preview":"",
+"Preview":"https://lienquan.garena.vn/files/skin/c45c62e60fe52ef0b4c6e16d13615f2d5a73df750cdcc.jpg",
 "Ages":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Ages/506/50601.zip",
 "Back":"",
 "Prefab":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Prefab/506/50601.zip",
@@ -62,7 +52,7 @@
 {
 "ID":"",
 "SkinName":"Thuyền Trưởng Hải Tặc",
-"Preview":"",
+"Preview":"https://lienquan.garena.vn/files/skin/b740d5af9bb1dc14556eae7e3d3dd197611780bd77b8c.png",
 "Ages":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Ages/506/50606.zip",
 "Back":"",
 "Prefab":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Prefab/506/50606.zip",

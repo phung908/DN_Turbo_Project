@@ -1,16 +1,6 @@
 [
 {
 "ID":"",
-"SkinName":"Mặc Định",
-"Preview":"https://lienquan.garena.vn/files/skin/04999ff87145b9005694ffd78e1530a66001705999d84.jpg",
-"Ages":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Ages/130/130.zip",
-"Back":"",
-"Prefab":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Prefab/130/130.zip",
-"Databin":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Databin/130/130.zip",
-"Extra":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Extra/130/130.zip"
-},
-{
-"ID":"",
 "SkinName":"Thích Khách",
 "Preview":"https://lienquan.garena.vn/files/skin/ab3664fa2804c2fb0d3788615369507b59f04b5265682.jpg",
 "Ages":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Ages/130/13001.zip",
@@ -21,8 +11,8 @@
 },
 {
 "ID":"",
-"SkinName":"",
-"Preview":"",
+"SkinName":"Ninja Xanh Lá",
+"Preview":"https://lienquan.garena.vn/files/skin/bb2890b57668757b5009ef0e01d162135965faca410ed.jpg",
 "Ages":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Ages/130/13002.zip",
 "Back":"",
 "Prefab":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Prefab/130/13002.zip",
@@ -31,8 +21,8 @@
 },
 {
 "ID":"",
-"SkinName":"",
-"Preview":"",
+"SkinName":"Quái Xế Công Nghệ",
+"Preview":"https://lienquan.garena.vn/files/skin/6a93d8e011eb861d8584f0a35ee87bab5cf6597ed1a3d.jpg",
 "Ages":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Ages/130/13003.zip",
 "Back":"",
 "Prefab":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Prefab/130/13003.zip",
@@ -71,8 +61,8 @@
 },
 {
 "ID":"",
-"SkinName":"",
-"Preview":"",
+"SkinName":"Phó Kiếm Đạo",
+"Preview":"https://lienquan.garena.vn/files/skin/9b5d286a2eba690a6e1b64213242b9fb5cd1148e6aa56.jpg",
 "Ages":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Ages/130/13007.zip",
 "Back":"",
 "Prefab":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Prefab/130/13007.zip",
@@ -121,8 +111,8 @@
 },
 {
 "ID":"",
-"SkinName":"",
-"Preview":"",
+"SkinName":"Lễ Hội Mùa Xuân",
+"Preview":"https://lienquan.garena.vn/files/skin/05d7ea679c6f3c691f029ff2773afe2d61175f5a2c357.png",
 "Ages":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Ages/130/13012.zip",
 "Back":"",
 "Prefab":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Prefab/130/13012.zip",

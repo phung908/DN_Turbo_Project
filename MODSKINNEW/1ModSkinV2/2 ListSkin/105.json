@@ -1,22 +1,12 @@
 [
 {
-"ID":"105",
-"SkinName":"Mặc Định",
-"Preview":"https://lienquan.garena.vn/files/skin/b7b9e1d6feade741ed789349815ddabc5ef592310c861.jpg",
-"Ages":"",
-"Back":"",
-"Prefab":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Prefab/105/105.zip",
-"Databin":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Databin/105/105.zip",
-"Extra":""
-},
-{
 "ID":"1052",
 "SkinName":"Đặc cảnh NYPD",
 "Preview":"https://lienquan.garena.vn/files/skin/134e0d0f72e41584ba3e263ab5128ef7583ffb23e6e58.jpg",
 "Ages":"",
 "Back":"",
-"Prefab":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Prefab/105/105.zip",
-"Databin":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Databin/105/105.zip",
+"Prefab":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Prefab/105/10501.zip",
+"Databin":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Databin/105/10501.zip",
 "Extra":""
 },
 {
@@ -25,18 +15,18 @@
 "Preview":"https://lienquan.garena.vn/files/skin/59201b4f48a4fbdf0a68102fd7ff44f25a5ddac53934c.jpg",
 "Ages":"",
 "Back":"",
-"Prefab":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Prefab/105/105.zip",
-"Databin":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Databin/105/105.zip",
+"Prefab":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Prefab/105/10502.zip",
+"Databin":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Databin/105/10502.zip",
 "Extra":""
 },
 {
 "ID":"1054",
 "SkinName":"Thần Thoại Hy Lạp",
-"Preview":"",
+"Preview":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/1SkinPreview/1053.jpg",
 "Ages":"",
 "Back":"",
-"Prefab":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Prefab/105/105.zip",
-"Databin":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Databin/105/105.zip",
+"Prefab":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Prefab/105/10503.zip",
+"Databin":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Databin/105/10503.zip",
 "Extra":""
 }
 ]

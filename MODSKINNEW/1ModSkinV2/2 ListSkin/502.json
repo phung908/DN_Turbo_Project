@@ -1,18 +1,8 @@
 [
 {
 "ID":"",
-"SkinName":"Mặc Định",
-"Preview":"https://lienquan.garena.vn/files/skin/15b20fb97ed730bbcffba74eec32be4659e0233890e45.jpg",
-"Ages":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Ages/502/502.zip",
-"Back":"",
-"Prefab":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Prefab/502/502.zip",
-"Databin":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Databin/502/502.zip",
-"Extra":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Extra/502/502.zip"
-},
-{
-"ID":"",
 "SkinName":"Bạch Kiếm Tiểu Thư",
-"Preview":"",
+"Preview":"https://lienquan.garena.vn/files/skin/e9ba2dd34a3052af56b8d833c7152b1359e0234e0f92b.jpg",
 "Ages":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Ages/502/50201.zip",
 "Back":"",
 "Prefab":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Prefab/502/50201.zip",
@@ -32,7 +22,7 @@
 {
 "ID":"",
 "SkinName":"Tổ Trưởng Học Đường",
-"Preview":"",
+"Preview":"https://lienquan.garena.vn/files/skin/96d59bce5dfc5d645ee0cab5745039e25e53a3b8a08a5.jpg",
 "Ages":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Ages/502/50203.zip",
 "Back":"",
 "Prefab":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Prefab/502/50203.zip",
@@ -42,7 +32,7 @@
 {
 "ID":"",
 "SkinName":"Thần Thoại Hi Lạp",
-"Preview":"",
+"Preview":"https://lienquan.garena.vn/files/skin/af9faf07135d7ba76770a97ec18575cd6117640d3ef19.png",
 "Ages":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Ages/502/50204.zip",
 "Back":"",
 "Prefab":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Prefab/502/50204.zip",
@@ -52,7 +42,7 @@
 {
 "ID":"",
 "SkinName":"Nữ Tổng Tài",
-"Preview":"",
+"Preview":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/1SkinPreview/5025.jpg",
 "Ages":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Ages/502/50205.zip",
 "Back":"",
 "Prefab":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Prefab/502/50205.zip",

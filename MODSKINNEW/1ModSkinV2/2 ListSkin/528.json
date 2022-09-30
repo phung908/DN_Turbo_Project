@@ -2,7 +2,7 @@
 {
 "ID":"",
 "SkinName":"Tiểu Long",
-"Preview":"",
+"Preview":"https://lienquan.garena.vn/files/skin/5cb7c0e3b742a79a9467b892494ad1de5d5686a4901af.jpg",
 "Ages":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Ages/528/52801.zip",
 "Back":"",
 "Prefab":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Prefab/528/52801.zip",
@@ -32,11 +32,11 @@
 {
 "ID":"",
 "SkinName":"Lễ Hội Pháo Hoa",
-"Preview":"",
+"Preview":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/1SkinPreview/5284.jpg",
 "Ages":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Ages/528/52804.zip",
 "Back":"",
 "Prefab":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Prefab/528/52804.zip",
 "Databin":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Databin/528/52804.zip",
 "Extra":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Extra/528/52804.zip"
-}
+},
 ]

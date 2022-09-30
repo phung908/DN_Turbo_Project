@@ -1,15 +1,5 @@
 [
 {
-"ID":"107",
-"SkinName":"Mặc Định",
-"Preview":"https://lienquan.garena.vn/files/skin/cc9cd7f440eb75f2b6b7908ae4b16bb5583ff2c0aaf0e.jpg",
-"Ages":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Ages/107/107.zip",
-"Back":"",
-"Prefab":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Prefab/107/107.zip",
-"Databin":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Databin/107/107.zip",
-"Extra":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Extra/107/107.zip"
-},
-{
 "ID":"10703",
 "SkinName":"Hiệp Sĩ Bí Ngô",
 "Preview":"https://lienquan.garena.vn/files/skin/84de1c274b7b4d1f6c73341e7ce9f26759f8309653277.jpg",
@@ -62,7 +52,7 @@
 {
 "ID":"10706",
 "SkinName":"Phi Thương",
-"Preview":"",
+"Preview":"https://lienquan.garena.vn/files/skin/0935d753a3a06735117b6603d60fc4a95fa8b988c5edb.jpg",
 "Ages":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Ages/107/107.zip",
 "Back":"",
 "Prefab":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Prefab/107/10706.zip",
@@ -72,7 +62,7 @@
 {
 "ID":"10707",
 "SkinName":"Tư Lệnh Viễn Chinh",
-"Preview":"",
+"Preview":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/1SkinPreview/1077.jpg",
 "Ages":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Ages/107/107.zip",
 "Back":"",
 "Prefab":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Prefab/107/10707.zip",

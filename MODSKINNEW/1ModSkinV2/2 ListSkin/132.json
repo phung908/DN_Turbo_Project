@@ -1,18 +1,8 @@
 [
 {
 "ID":"",
-"SkinName":"Mặc Định",
-"Preview":"https://lienquan.garena.vn/files/skin/d0c33087d442efacbb2b543cee4527c45c8f29a4c7a52.jpg",
-"Ages":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Ages/132/132.zip",
-"Back":"",
-"Prefab":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Prefab/132/132.zip",
-"Databin":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Databin/132/132.zip",
-"Extra":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Extra/132/132.zip"
-},
-{
-"ID":"",
-"SkinName":"",
-"Preview":"",
+"SkinName":"Bạch Ảnh",
+"Preview":"https://lienquan.garena.vn/files/skin/d36947e14ceaa3c38ee7bb42666c56565c8f320e0e45a.jpg",
 "Ages":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Ages/132/13201.zip",
 "Back":"",
 "Prefab":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Prefab/132/13201.zip",
@@ -71,7 +61,7 @@
 },
 {
 "ID":"",
-"SkinName":"",
+"SkinName":"Bạch Lang",
 "Preview":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/ModFullSkin/SkinImage/132/1327.jpg",
 "Ages":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Ages/132/13207.zip",
 "Back":"",

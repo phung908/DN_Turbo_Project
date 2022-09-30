@@ -1,18 +1,8 @@
 [
 {
 "ID":"",
-"SkinName":"Mặc Định",
-"Preview":"https://lienquan.garena.vn/files/skin/d5592bb2109b1367451f11bb876a58ce5db1778ec8cde.jpg",
-"Ages":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Ages/199/199.zip",
-"Back":"",
-"Prefab":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Prefab/199/199.zip",
-"Databin":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Databin/199/199.zip",
-"Extra":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Extra/199/199.zip"
-},
-{
-"ID":"",
 "SkinName":"Soái Tặc",
-"Preview":"",
+"Preview":"https://lienquan.garena.vn/files/skin/2a77f7161612f671e52b016ad6e176d05db1779f9d8fb.jpg",
 "Ages":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Ages/199/19901.zip",
 "Back":"",
 "Prefab":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Prefab/199/19901.zip",
@@ -22,7 +12,7 @@
 {
 "ID":"",
 "SkinName":"Phi Vụ Thế Kỷ",
-"Preview":"",
+"Preview":"https://lienquan.garena.vn/files/skin/28a71d5d00272e77e50e4f17bbf1fe305fbcb86f8dd97.jpg",
 "Ages":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Ages/199/19902.zip",
 "Back":"",
 "Prefab":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Prefab/199/19902.zip",
@@ -32,7 +22,7 @@
 {
 "ID":"",
 "SkinName":"Học Viện Carano",
-"Preview":"",
+"Preview":"https://lienquan.garena.vn/files/skin/9c18721e9856cb307b2b3383a27c3c865ed4c81071c23.jpg",
 "Ages":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Ages/199/19903.zip",
 "Back":"",
 "Prefab":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Prefab/199/19903.zip",
@@ -52,7 +42,7 @@
 {
 "ID":"",
 "SkinName":"Ong Chăm Chỉ",
-"Preview":"",
+"Preview":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/1SkinPreview/1995.jpg",
 "Ages":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Ages/190/19005.zip",
 "Back":"",
 "Prefab":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/MODSKINNEW/1ModSkinV2/Prefab/190/19005.zip",

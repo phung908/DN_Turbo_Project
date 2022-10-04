@@ -22,7 +22,7 @@
 }, 
 {
 "Name":"Fix Mod Skin Không Có Âm Thanh, Icon Khi Mod Thêm Skin Khác",
-"Path":"%2FExtra%2F2019.V2%2F",
+"Path":"Extra%2F2019.V2%2F",
 "Version":"",
 "Folder":"Sound_DLC",
 "Link":"https://github.com/JaneAoV/DN_Turbo_Project/raw/main/Feedback/FixAoV/Sound.zip"
